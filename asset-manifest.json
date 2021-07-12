@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/siter/static/css/main.a617e044.chunk.css",
+    "main.js": "/siter/static/js/main.2e8bd040.chunk.js",
+    "main.js.map": "/siter/static/js/main.2e8bd040.chunk.js.map",
+    "runtime-main.js": "/siter/static/js/runtime-main.f981e859.js",
+    "runtime-main.js.map": "/siter/static/js/runtime-main.f981e859.js.map",
+    "static/js/2.84bc3ad2.chunk.js": "/siter/static/js/2.84bc3ad2.chunk.js",
+    "static/js/2.84bc3ad2.chunk.js.map": "/siter/static/js/2.84bc3ad2.chunk.js.map",
+    "static/js/3.79e5efb9.chunk.js": "/siter/static/js/3.79e5efb9.chunk.js",
+    "static/js/3.79e5efb9.chunk.js.map": "/siter/static/js/3.79e5efb9.chunk.js.map",
+    "index.html": "/siter/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/siter/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.84bc3ad2.chunk.js.LICENSE.txt": "/siter/static/js/2.84bc3ad2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/siter/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f981e859.js",
+    "static/js/2.84bc3ad2.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.2e8bd040.chunk.js"
+  ]
+}
